@@ -258,6 +258,7 @@ SAKHI/
 * **Avika Nigam** – Team Leader & AI/Backend Developer
 * **Samarjeet** – Frontend & Presentation
 * **Anshu** – UI/UX & Integration
+* **Ayush** - Logistic head
 
 ---
 
